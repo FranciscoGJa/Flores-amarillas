@@ -114,8 +114,8 @@ p {
     top: 20px;
     left: 50%;
     transform: translateX(-50%);
-    width: 100%; /* Cambio el ancho para que sea adaptable */
-    max-width: 400px; /* Establezco un ancho máximo */
+    width: 200%; /* Cambio el ancho para que sea adaptable */
+    max-width: 600px; /* Establezco un ancho máximo */
     padding: 2rem;
     background-color: #f4f763;
     border: 2px solid #333;
